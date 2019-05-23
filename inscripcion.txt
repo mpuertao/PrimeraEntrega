@@ -1,0 +1,6 @@
+ Numero de Identificacion: 123456789
+   Nombre: Mauricio
+   Id del curso 1
+   Nombre del curso DevOps
+   Duracion del curso 40 horas
+   Aporte en $ 1200000
